@@ -26,7 +26,7 @@ A collection of Java practice projects including calculator, Snake game, Space I
 Technologies:  
 `Java`, `OOP`, `Swing`, `Game Logic`, `Basic Algorithms`
 
-Repository: [laboratory](https://github.com/angrytomm/laboratory)
+Repository: [java-practice-projects](https://github.com/angrytomm/laboratory)
 
 ## 📚 Currently learning
 
